@@ -10,7 +10,7 @@ hzl博客
 
 ### 最新
 
-* [学习](http://www.heyx.top/articles/2019/10/02/1569947622490.html)
+* [学习](https://www.heyx.top/articles/2019/10/02/1569947622490.html)
 
 
 
